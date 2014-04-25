@@ -2,7 +2,7 @@
 
 MyGame::MyGame(int scrwidth, int scrheight, std::string title, int style)
     : Game(scrwidth,scrheight,title,style) {
-    //Create the game and init them
+    //Create the components of the game and init them
 }
 
 MyGame::~MyGame() {}

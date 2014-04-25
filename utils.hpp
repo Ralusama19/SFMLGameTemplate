@@ -20,4 +20,7 @@
 #include <queue>
 #include <map>
 
+// If you want to declare global variables you can do it here:
+extern int number; // You must to declare this avariable again on utils.cpp
+
 #endif // UTILS_HPP
